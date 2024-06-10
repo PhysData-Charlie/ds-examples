@@ -1,7 +1,9 @@
 # MACHINE LEARNING EXAMPLES
 
 Author: Charlie Lopez
+
 Last Update: June 6th, 2024
+
 Version: 1.1
 
 **Summary**
@@ -19,6 +21,7 @@ This repository has been created to facilitate access to the Machine Learning ex
 7. Transfer Learning (for CNNs)
 8. Time Series Analysis
 9. LLMs (Prompt Engineering)
+10. Generative Antagonic Networks (GANs) - Translation pending
 
 **To be added**
 
