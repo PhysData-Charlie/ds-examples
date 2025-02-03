@@ -1,34 +1,31 @@
-# MACHINE LEARNING EXAMPLES
+# Machine Learning Examples 📚  
 
-Author: Charlie Lopez
+**Author:** PhysDataCharlie  
+**Last Update:** June 6, 2024  
+**Version:** 1.2  
 
-Last Update: June 6th, 2024
+## 🔍 Overview  
+This repository provides a collection of Machine Learning examples designed for students in my open Data Science course. The content spans from fundamental data analysis and predictive modeling to advanced topics in Deep Learning and Large Language Models (LLMs).  
 
-Version: 1.1
+## 📂 Current Contents  
 
-**Summary**
+- **Data Analysis**: Basic data analysis pipeline.  
+- **Supervised Machine Learning**: General pipeline for supervised algorithms using Scikit-learn.  
+- **Unsupervised Machine Learning**: General pipeline for unsupervised algorithms using Scikit-learn.  
+- **Dense Neural Networks (DNNs)**: Framework for working with Dense Neural Networks using TensorFlow.  
+- **Convolutional Neural Networks (CNNs)**: Framework for implementing CNNs using TensorFlow.  
+- **Recurrent Neural Networks (LSTMs)**: Framework for implementing RNNs and LSTMs using TensorFlow.  
+- **Transfer Learning (for CNNs)**: Example of Transfer Learning with CNNs using TensorFlow.  
+- **Time Series Analysis**: Basic pipeline for time series analysis using Statsmodels.  
+- **LLMs (Prompt Engineering)**: Introduction to prompt engineering using the 🤗 Transformers library.  
+- **Generative Adversarial Networks (GANs)** *(Translation pending)*: Example of building a GAN using TensorFlow.  
 
-This repository has been created to facilitate access to the Machine Learning example I have created for my students of my open Data Science course, ranging from Basic Algorithms for Data Analysis and Prediction, to Deep Learning and LLMs.
+## 🚀 Upcoming Additions  
 
-**Current Contents**
+- **LLMs**: Parameter-Efficient Fine-Tuning (PEFT) & Reinforcement Learning.  
+- **Advanced Time Series Modeling**.  
+- **Siamese Networks**.  
 
-1. Data Analysis
-2. Supervised Machine Learning
-3. Unsupervised Machine Learning
-4. Dense Neural Networks (DNNs)
-5. Convolutional Neural Networks (CNNs)
-6. Recurrent Neural Networks (LSTMs)
-7. Transfer Learning (for CNNs)
-8. Time Series Analysis
-9. LLMs (Prompt Engineering)
-10. Generative Antagonic Networks (GANs) - Translation pending
+## 📜 License & Usage  
 
-**To be added**
-
-1. LLMs (PEFT & Reinforcement Learning)
-3. Advanced Time Series Modeling
-4. Siamese Networks
-
-**Copyright**
-
-You are free to use the codes in this repository as needed for your projects. If you want to use a complete notebook, please be sure to properly cite my work and link to my repository.
+You are welcome to use the code in this repository for your projects. If you utilize a complete notebook, please consider citing my work and linking back to this repository.  
