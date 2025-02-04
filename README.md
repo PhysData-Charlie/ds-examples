@@ -22,9 +22,13 @@ This repository provides a collection of Machine Learning examples designed for 
 
 ## 🚀 Upcoming Additions  
 
-- **LLMs**: Parameter-Efficient Fine-Tuning (PEFT) & Reinforcement Learning.  
+- **LLMs (Parameter-Efficient Fine-Tuning)**
+- **LLMs (Reinforcement Learning)**
 - **Advanced Time Series Modeling**.  
-- **Siamese Networks**.  
+- **Siamese Networks**.
+- **Spiking Neural Networks (SNNs)**
+- **Equivalent pipelines for all above networks using Pytorch**
+- **Optimization example w/Pyomo**
 
 ## 📜 License & Usage  
 
